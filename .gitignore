@@ -1,0 +1,28 @@
+# Python bytecode va kesh
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual muhit
+.venv/
+venv/
+env/
+
+# Paketlash natijalari
+build/
+dist/
+*.egg-info/
+
+# Test va qamrov hisobotlari
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Maxfiy sozlamalar
+.env
+
+# IDE va OT fayllari
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
